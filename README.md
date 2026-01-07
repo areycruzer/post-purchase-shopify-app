@@ -16,6 +16,13 @@ The goal was to build a simple app that:
 - **Extension**: Shopify Checkout UI Extensions
 - **Tooling**: Shopify CLI, Vite
 
+## 🎥 Demo
+
+Check out the full walkthrough of the app and storefront integration:
+[![Storefront Purchase Demo](/home/cruzer/.gemini/antigravity/brain/e5988e8d-61fc-4555-af0a-dc0631387130/storefront_demo_1767790275514.webp)](https://github.com/areycruzer/post-purchase-shopify-app)
+
+> Note: The full video walkthrough is available in the `walkthrough.md` artifact locally.
+
 ## 📂 Project Structure
 
 ```bash
