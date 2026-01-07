@@ -33,6 +33,7 @@ The goal was to build a simple app that:
 ```
 
 ## 🚀 Setup & Installation
+<img width="1320" height="694" alt="image" src="https://github.com/user-attachments/assets/ffd28704-31b8-40a9-9cee-8fb3c8b9fc59" />
 
 ### Prerequisites
 - Node.js (v18+)
