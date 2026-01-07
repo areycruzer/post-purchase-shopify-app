@@ -1,0 +1,19 @@
+api_version = "2024-10"
+
+[[extensions]]
+type = "post_purchase_ui"
+name = "post-purchase-ui"
+handle = "post-purchase-ui"
+
+[extensions.capabilities]
+block_progress = false
+network_access = true
+
+[[extensions.ui_paths]]
+type = "post_purchase_ui"
+path = "src/index.jsx"
+
+[extensions.metafields]
+  [[extensions.metafields.shop]]
+    namespace = "post_purchase"
+    key = "message"
