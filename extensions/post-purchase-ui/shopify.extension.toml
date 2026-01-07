@@ -1,6 +1,7 @@
 api_version = "2024-10"
 
 [[extensions]]
+uid = "cd7fff10-47a6-a6f7-60f2-c8e090f069c8fd0d2443"
 type = "post_purchase_ui"
 name = "post-purchase-ui"
 handle = "post-purchase-ui"
@@ -13,7 +14,6 @@ network_access = true
 type = "post_purchase_ui"
 path = "src/index.jsx"
 
-[extensions.metafields]
-  [[extensions.metafields.shop]]
-    namespace = "post_purchase"
-    key = "message"
+[[extensions.metafields]]
+namespace = "post_purchase"
+key = "message"
